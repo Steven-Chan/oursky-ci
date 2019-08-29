@@ -21,6 +21,7 @@ test:two:
   tags:
     - docker
   script:
+    - echo "this is head"
     - echo "two1"
     - echo "two2"
     - echo "two3"
